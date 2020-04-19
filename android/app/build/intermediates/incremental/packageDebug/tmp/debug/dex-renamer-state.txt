@@ -1,0 +1,4 @@
+#Sat Apr 11 01:23:04 BRT 2020
+base.0=/home/otacilio/Desktop/Projects/BootCamp/Desafio 01 conceitos/gostack-mobile-repository-manager/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
